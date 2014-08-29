@@ -3,7 +3,7 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.grappsmobile.pgbtest"
         version   = "0.0.1">
-    <name>PGB Test</name>
+    <name>TRY</name>
 
     <description>
         Kitchen Sink of Phonegap Build APIs
